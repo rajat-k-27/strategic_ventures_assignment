@@ -1,0 +1,24 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+db.sqlite3-journal
+backend/venv/
+backend/.env
+.env
+
+# PostgreSQL local cluster
+.pgdata/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+*.local
+
+# Logs & temp
+*.log
+.DS_Store
+
